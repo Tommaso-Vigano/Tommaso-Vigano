@@ -38,7 +38,7 @@ An educational C++ library focused on foundational associative-memory and machin
 
 The project explores the implementation of learning algorithms and memory models with an emphasis on understandable, reusable and efficient C++ code.
 
-**Technologies:** `C++` `Machine Learning` `Algorithms`
+**Technologies:** `C++` `Machine Learning` 
 
 
 ## Contact
