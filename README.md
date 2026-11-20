@@ -41,4 +41,4 @@ The project explores the implementation of learning algorithms and memory models
 
 ## Contact
 
-[LinkedIn]((https://www.linkedin.com/in/tommaso-vigan%C3%B2-706b80403/?isSelfProfile=true)) · [Email](mailto:tommasovigano03@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/tommaso-vigan%C3%B2-706b80403/) · [Email](mailto:tommasovigano03@gmail.com)
