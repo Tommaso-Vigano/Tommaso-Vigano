@@ -8,8 +8,6 @@
 
 I am a Computer Engineering graduate currently pursuing a Master's degree in **High Performance Computing** at Politecnico di Milano.
 
-My main interests lie at the intersection of machine learning, statistical modelling and efficient computing. I am particularly interested in applying these techniques to large-scale data analysis and finance.
-
 ## Selected projects
 
 ### [Sleep Apnea Prediction from EEG](https://github.com/DertMatt24/Apnoea-EEG)
